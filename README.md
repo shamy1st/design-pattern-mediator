@@ -1,4 +1,4 @@
-# Java Implementation of Mediator Design Pattern
+# Mediator Design Pattern (Java Implementation)
 
 **Mediator** design pattern defines an object that encapsulates how a set of objects interact. ([wiki](https://en.wikipedia.org/wiki/Mediator_pattern))
 ![](https://github.com/shamy1st/design-pattern-mediator-java/blob/main/mediator-uml.png)
