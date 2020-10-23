@@ -1,4 +1,4 @@
-# Mediator Design Pattern (Java Implementation)
+# Mediator Design Pattern (Java)
 
 **Mediator** object encapsulates how a set of objects interact.
 ![](https://github.com/shamy1st/design-pattern-mediator-java/blob/main/mediator-uml.png)
