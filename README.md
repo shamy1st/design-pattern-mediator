@@ -1,10 +1,9 @@
 # Mediator Design Pattern (Java)
-
 **Mediator** object encapsulates how a set of objects interact.
-![](https://github.com/shamy1st/design-pattern-mediator-java/blob/main/mediator-uml.png)
+![](https://github.com/shamy1st/design-pattern-mediator/blob/main/uml.png)
 ### Problem: 
 You have **ListBox** and when choose item from it, you should change the **TextBox** (content) and **Button** (enable/disable).
-![](https://github.com/shamy1st/design-pattern-mediator-java/blob/main/mediator-problem-uml.png)
+![](https://github.com/shamy1st/design-pattern-mediator/blob/main/uml-problem.png)
 
     public class UIControl {
 
@@ -46,4 +45,4 @@ You have **ListBox** and when choose item from it, you should change the **TextB
         }
     }
 ### Solution:
-![](https://github.com/shamy1st/design-pattern-mediator-java/blob/main/mediator-solution-uml.png)
+![](https://github.com/shamy1st/design-pattern-mediator/blob/main/uml-solution.png)
